@@ -53,8 +53,7 @@ experience, producing a poster, video or similar website.
 > article tutorials on the above pages.
 
 3.  Open up SketchUp, select **Window &gt; Preferences**, then open the
-    **Extensions** tab. FROM HERE ON, I DIDN’T CHECK EVERYTHING
-    (SKETCHUP DOESN’T WORK)
+    **Extensions** tab.
 
 4.  Install the extensions above in the given order.
 
