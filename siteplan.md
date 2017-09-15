@@ -74,7 +74,7 @@ Steps:
     “Stray Edges” that will have a button next to them that says fix.
     Click these to deal with the relevant issues.
 
-> ![Missing Image](/images/image_0)
+> ![Missing Image](/images/image_1)
 
 1.  There may be some other items that say “Info” rather than fix. These
     represent issues that Solid Inspector can’t fix because there are
@@ -85,17 +85,17 @@ Steps:
     surface that isn’t planar. To fix this, draw lines that split the
     surface into planar parts.
 
-![Missing Image](/images/image_1)
+![Missing Image](/images/image_2)
 
 1.  If you’ve managed to fix everything, you should see a window like
     this when you open Solid Inspector!
 
-![Missing Image](/images/image_2)
+![Missing Image](/images/image_3)
 
 1.  After this, go to **Window &gt; CleanUp<sup>3</sup>** with one of
     the groups selected.
 
-![Missing Image](/images/image_3)
+![Missing Image](/images/image_4)
 
 1.  Make sure that either the **Local** or **Selection** radio button is
     selected, **Model** will ignore your group and try to
@@ -139,7 +139,7 @@ Steps:
     the group when in a group. For example, the following can’t be cut
     in the order blue &gt; red &gt; green, because blue will cut all the
     way through the buildings. Rather, it should be cut with red
-    first. ![Missing Image](/images/image_4)
+    first. ![Missing Image](/images/image_5)
 
 2.  The following is trickier, as there are no full length cuts to base
     the other cuts off of. To deal with this, either red or green should
@@ -148,14 +148,14 @@ Steps:
     together again using the CleanUp tool used earlier (Merge
     Adjacent Surfaces).
 
-> ![Missing Image](/images/image_5)
+> ![Missing Image](/images/image_6)
 
 1.  Just before cutting, you need to duplicate the item you want to cut.
 
 2.  In order to actually start cutting, select **Tools &gt; Section
     Plane**
 
-![Missing Image](/images/image_6)
+![Missing Image](/images/image_7)
 
 1.  Now select a surface that has the angle you want to section from.
 
@@ -172,13 +172,13 @@ Steps:
 3.  Repeat steps 21-23 for the duplicate, except flipping the section by
     right clicking and selecting **“Reverse”**.
 
-![Missing Image](/images/image_7)
+![Missing Image](/images/image_8)
 
 1.  It’s possible to make some cuts that only go through a part of the
     model by grouping it appropriately, such as the red cut
     pictured below.
 
-    ![Missing Image](/images/image_8)
+    ![Missing Image](/images/image_9)
 
 2.  After all the cuts have been made, it’s a good idea to clean
     it again. Refer to steps 7-16 for how to do this.
@@ -188,7 +188,7 @@ Steps:
     finish of the underside after the support structures have been
     removed is not the best.
 
-![Missing Image](/images/image_9)
+![Missing Image](/images/image_10)
 
 Note: the 3d printers can handle an overhang that is under 30 degrees
 without needing to build supports.
@@ -203,7 +203,7 @@ without needing to build supports.
     press **S**. The model should be in a wireframe yellow box with
     green cubes around it.
 
-![Missing Image](/images/image_10)
+![Missing Image](/images/image_11)
 
 1.  Click on one of the corner green cubes. Then, type the scale you
     have calculated you want to achieve, with 1 being the original size.
@@ -221,12 +221,12 @@ without needing to build supports.
 
 5.  Select **File &gt; Export &gt; 3D Model**
 
-![Missing Image](/images/image_11)
+![Missing Image](/images/image_12)
 
 1.  Then after choosing your file name, set the “Export type:” to obj,
     and click “Export”.
 
-![Missing Image](/images/image_12)
+![Missing Image](/images/image_13)
 
 1.  To start the printing process, open **Cura**.
 
@@ -236,13 +236,13 @@ without needing to build supports.
 3.  From within Cura you can do the following things to your model after
     it’s been selected:
 
-![Missing Image](/images/image_13)
-
 ![Missing Image](/images/image_14)
 
 ![Missing Image](/images/image_15)
 
 ![Missing Image](/images/image_16)
+
+![Missing Image](/images/image_17)
 
 1.  After fixing your model, ensure that:
 
@@ -257,7 +257,7 @@ without needing to build supports.
     Note: If you are unsure about the other settings, setting them to
     this is recommended:
 
-![Missing Image](/images/image_17)
+![Missing Image](/images/image_18)
 
 1.  *Workflow documentation stops here as I’m not sure about how to
     proceed with the actual printing.*
