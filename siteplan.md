@@ -238,12 +238,6 @@ without needing to build supports.
 
 ![Missing Image](/images/image_14.png)
 
-![Missing Image](/images/image_15.png)
-
-![Missing Image](/images/image_16.png)
-
-![Missing Image](/images/image_17.png)
-
 1.  After fixing your model, ensure that:
 
 <!-- -->
@@ -257,7 +251,7 @@ without needing to build supports.
     Note: If you are unsure about the other settings, setting them to
     this is recommended:
 
-![Missing Image](/images/image_18.png)
+![Missing Image](/images/image_15.png)
 
 1.  *Workflow documentation stops here as I’m not sure about how to
     proceed with the actual printing.*
