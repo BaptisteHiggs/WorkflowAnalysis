@@ -1,0 +1,73 @@
+.module {
+	position: fixed;
+}
+
+body {
+	background-color: #222233;
+}
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+}
+
+img {
+	position: relative;
+	left: 30%;
+	width: 64px;
+	height: 64px;
+}
+/*
+div {
+	transition: width 1s, background-color 0.5s;
+	right: 0px;
+	left:0px;
+	width: 100%;
+	background-color: #00FFFF;
+}
+
+div:hover {
+	width: 50%;
+	background-color: #FFFFFF;
+}
+*/
+
+/*
+.img__wrap {
+  position: relative;
+  height: 200px;
+  width: 257px;
+}
+
+.img__description {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+
+  /* transition effect. not necessary *
+  transition: opacity .2s, visibility .2s;
+}
+
+.img__wrap:hover .img__description {
+  visibility: visible;
+  opacity: 1;
+  
+}
+*/

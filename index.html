@@ -1,0 +1,151 @@
+
+<!--
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="scripts.js"></script>
+<body>
+
+<svg height="100" width="100">
+  <circle cx="50" cy="50" r="40" stroke="white" stroke-width="3" fill=#BBBBBB />
+</svg>
+<div>
+<img src="building.png">
+</div>
+
+<div id="mydiv">
+  <!--Include a header DIV with the same name as the draggable DIV, followed by "header":
+  <div id="mydivheader">Click here to move</div>
+  <p>Move</p>
+  <p>this</p>
+  <p>DIV</p>
+</div>
+
+</body>
+-->
+
+
+
+
+
+
+
+
+<!-- THIS IS THE STUFF SAVED FOR THE dragTest.html FILE -->
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<style>
+@font-face {
+	font-family: 'BlenderBold';
+    src: url(Blender-Bold.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: 'BlenderReg';
+    src: url(Blender-Book.ttf) format("truetype");
+}
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    text-align: center;
+}
+
+body {
+	color: #FFFFFF;
+    background: url(dotgrid.png)
+}
+
+circle:hover {
+	opacity: 0.5;
+}
+
+</style>
+<body>
+
+<h1>Workflow Analysis</h1>
+
+<p>Very early stages of workflow analysis tool</p>
+
+<svg class='circle' height=100% width=100%>
+  <circle id="circle" cx="50" cy="50" r="40" stroke="white" stroke-width="3" fill=#BBBBBB />
+</svg>
+
+<script>
+//Make the DIV element draggagle:
+
+dragElement(document.getElementById("circle"));
+
+function dragElement(elmnt) {
+  elmnt.onmousedown = dragMouseDown;
+  /*
+  alert("hey")
+  var elmnt = circleClass[0];
+  document.onmousedown = elementDecide;
+  
+  function elementDecide(e) {
+    e = e || window.event;
+	
+	// Save current mouse location
+	var currentMouseX = e.clientX;
+	var currentMouseY = e.clientY;
+	alert()
+
+    // Decide which circle is being selected
+	for (i = 0; i < circleClass.length; i++) {
+	  elmnt = circleClass[i]
+	  var distanceX = (elmnt.getAttribute("cx") - currentMouseX)*(elmnt.getAttribute("cx") - currentMouseX)
+	  var distanceY = (elmnt.getAttribute("cy") - currentMouseY)*(elmnt.getAttribute("cy") - currentMouseY)
+	  if (distanceX + distanceY < 1601) {
+	    dragMouseDown;
+		break;
+	  }
+	}
+  }
+  */
+  function dragMouseDown(e) {
+    e = e || window.event;
+    // get the mouse cursor position at startup:
+    document.onmouseup = closeDragElement;
+    // call a function whenever the cursor moves:
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e = e || window.event;
+    // calculate the new cursor position:
+    // set the element's new position:
+	/*
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+	*/
+	elmnt.setAttribute("cx", e.clientX - 10)
+	elmnt.setAttribute("cy", e.clientY - 110)
+  }
+
+  function closeDragElement(e) {
+    e = e || window.event;
+    /* stop moving when mouse button is released:*/
+	/*window.alert((elmnt.attr(cx))*/
+	var diameter = elmnt.getAttribute("r")*2;
+	if (((e.clientX - 10) % diameter > 0) || ((e.clientY - 110) % diameter > 0)){
+		// move to better spot
+		elmnt.setAttribute("cx", (Math.round((e.clientX - 10)/diameter)*diameter));
+		elmnt.setAttribute("cy", (Math.round((e.clientY - 110)/diameter)*diameter));
+	}
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+}
+</script>
+
+</body>
+</html>
