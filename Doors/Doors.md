@@ -2,7 +2,11 @@
 
 ### See other document for door definition
 
+## Do I need a door?
 
+As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces.
+
+***Talk about whether an open space might be appropriate***
 
 ## Where do I put the door?
 
