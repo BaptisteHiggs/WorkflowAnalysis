@@ -1,39 +1,14 @@
 # DOORS
 
-## What are doors?
-
-As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. They are a solution to a design problem alongside all other architectural elements - but what's the problem?
-
-Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process doors also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time, the leaf of the door<sup>[1](#notes)</sup> rotates out of the way. Doors (when combined with walls) allow for travel between assymetric architectural spaces.
-
-These assymetries dictate what the needs of the door are, including:
-
-- Temperature levels (e.g. Aircon, fire protection)
-- Noise transfer reductions
-- Environmental (e.g. Wind, rain)
-- Security enforceability
-
-Further issues arise during the operation of the door, such as:
-
-- Disabilities
-- Security levels
-- ***Something else??***
-
-The practical solutions of these issues (alongside the legality of certain door specifications) in the design is discussed in the section [What type of door do I need?](#doorType)
-
-## Do I need a door?
-
-As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces.
-
-***Talk about whether an open space might be appropriate***
+### See other document for door definition
 
 
 
 ## Where do I put the door?
 
-The door needs to not only be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)):
+The door needs not only to be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)):
 
-- Fsdg
+- Luminance contrast
 
 
 ***Talk about where to put the door on the wall (after legalities considered)***
