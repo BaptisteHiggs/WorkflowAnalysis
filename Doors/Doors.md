@@ -13,11 +13,11 @@ These assymetries dictate what the needs of the door are, including:
 - Environmental (e.g. Wind, rain)
 - Security enforceability
 
-Other issues arise during the operation of the door, such as:
+Further issues arise during the operation of the door, such as:
 
 - Disabilities
 - Security levels
-- 
+- ***Something else??***
 
 The practical solutions of these issues (alongside the legality of certain door specifications) in the design is discussed in the section [What type of door do I need?](#doorType)
 
@@ -25,12 +25,32 @@ The practical solutions of these issues (alongside the legality of certain door 
 
 As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces.
 
-***Talk about whether an open space might be appropriate, and where to put the door on the wall (legality of position + other stuff)***
+***Talk about whether an open space might be appropriate***
+
+
+
+## Where do I put the door?
+
+
+
+***Talk about where to put the door on the wall (after legalities considered)***
+
 
 
 ## <a name="doorType">What type of door do I need?</a>
 
+After the location of the door has been selected, you'll need to meet with a buildings code consultant to discuss the legal requirements of the door being constructed, based on the factors that you need to fulfil. It will be helpful to know the following information:
 
+- **Building class**
+  There are 10 classes, each detailed [here](https://www.abcb.gov.au/-/media/Files/Resources/Education-Training/Building-classifications.pdf).
+
+- **Fire door locations**
+
+- 
+
+
+
+If you'd like to attempt this without a consultant [here is a link](https://www.abcb.gov.au/Resources/NCC) to all the official resources (although you'll need to register an account to view the material). Attempting this without a consultant is not a good idea.
 
 
 
