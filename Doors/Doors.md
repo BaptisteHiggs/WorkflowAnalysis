@@ -1,1 +1,40 @@
 # DOORS
+
+## What are doors?
+
+As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. They are a solution to a design problem alongside all other architectural elements - but what's the problem?
+
+Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process they also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time the leaf of the door<sup>[1](#sometext)</sup>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque accumsan quis ligula id luctus. Morbi gravida metus nulla, at vehicula enim feugiat eu. Quisque consequat sapien sit amet gravida ornare. Phasellus vestibulum ultricies ex sit amet tincidunt. Morbi viverra molestie quam a dictum. Duis quis magna eget mauris blandit malesuada. Vivamus porta sollicitudin purus at mattis.
+
+Suspendisse potenti. Mauris hendrerit sapien ligula, non malesuada nunc pretium nec. Phasellus ut purus consequat, tincidunt magna ut, pretium mi. Aenean arcu ligula, fermentum ac sollicitudin sed, ultricies id mi. Integer mauris elit, convallis sit amet gravida ut, laoreet faucibus mi. Nunc in euismod massa. Aliquam sodales, tortor in vehicula facilisis, magna lorem lacinia nulla, ut volutpat enim nisi nec quam. Aenean sit amet ligula sit amet nibh efficitur lobortis.
+
+Fusce facilisis odio a justo tincidunt, cursus gravida magna volutpat. Vestibulum sit amet porta leo. Donec dignissim ipsum vel ligula condimentum iaculis. Proin a nisl vel ligula ullamcorper iaculis sit amet vitae massa. Donec eu laoreet risus, sit amet vestibulum tortor. Maecenas sed lectus id quam porta pellentesque. Praesent ultricies, orci vel pellentesque tristique, tortor nisi semper eros, a euismod massa arcu vitae turpis. Suspendisse euismod odio quis vehicula aliquet. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Proin vulputate consequat est, in porta sem convallis non. Vestibulum augue metus, scelerisque a nisl nec, porttitor mollis metus. Proin nec ex ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque non consectetur tortor, vel hendrerit nunc. Quisque sit amet odio tristique, commodo urna sed, scelerisque arcu. Sed sed tincidunt tortor, sit amet fringilla ipsum.
+
+Pellentesque euismod nibh non neque tincidunt lobortis. Ut mauris felis, sagittis sit amet fringilla sit amet, tempor vel tellus. Nulla accumsan, dui quis semper interdum, lacus lacus aliquam diam, vitae fringilla tortor sem sed est. Ut diam est, eleifend pellentesque purus a, pretium feugiat lectus. Vestibulum convallis id lectus at consequat. Suspendisse sit amet suscipit tellus. Vivamus accumsan ornare nisl ut imperdiet. Nunc pretium maximus turpis, eu tincidunt libero tincidunt ut. Nulla efficitur tortor at interdum iaculis. Quisque a cursus nibh. Pellentesque faucibus lectus quis sem luctus, vel mattis sapien consectetur.
+
+Fusce convallis, erat quis auctor iaculis, ligula nunc pellentesque enim, eu cursus mi massa at justo. Sed ac tortor finibus, euismod arcu eu, commodo enim. Nullam ultrices augue nec diam faucibus pulvinar. Curabitur efficitur tortor eget fermentum semper. Nulla efficitur, diam id hendrerit fringilla, leo elit finibus magna, vel lobortis ipsum tortor sit amet libero. Fusce et leo ante. Donec tincidunt orci vel molestie finibus. Pellentesque maximus arcu eu odio viverra pharetra. Vivamus in malesuada lectus. Sed libero diam, maximus vel imperdiet sed, sollicitudin nec nulla. Donec pellentesque, augue ut imperdiet dictum, nisl justo blandit turpis, nec ornare nibh orci ut nunc. Donec erat urna, semper eu facilisis ac, finibus feugiat massa. Sed euismod volutpat sapien eget tristique.
+
+Nullam tristique aliquam sagittis. Donec dictum imperdiet mollis. Nullam nunc metus, pulvinar interdum tellus quis, pulvinar pharetra urna. Morbi bibendum et ante vitae fringilla. Integer blandit consequat commodo. Duis luctus maximus lobortis. In massa enim, semper in viverra et, placerat eleifend est. Quisque blandit est ac diam elementum, in porta sapien posuere. Sed tempus magna eget congue posuere. Nulla accumsan nisl vitae nisi feugiat gravida. Maecenas maximus ex ligula, ut eleifend dolor venenatis vitae.
+
+Donec auctor sagittis suscipit. Donec commodo, odio ut luctus mattis, nibh ligula faucibus est, eu placerat mi urna non sem. Praesent varius lectus quis velit faucibus tempor. Etiam vitae libero nisl. Nam vel elit id orci ultrices luctus. Nunc faucibus sem eu fringilla vulputate. Proin vel augue ipsum. Ut sagittis nunc ut tincidunt sodales. Etiam non lorem ornare, convallis erat vitae, sodales justo. In at nisi ullamcorper, bibendum augue in, venenatis arcu.
+
+Duis vel quam diam. Aenean vulputate enim ac eros maximus aliquam. Aliquam scelerisque laoreet elit, id egestas ipsum tincidunt ac. Proin iaculis leo quis sem sodales, quis facilisis dui congue. Vivamus scelerisque, nisl quis consectetur imperdiet, lacus velit mollis enim, eget gravida leo dolor sed est. Suspendisse at ligula ut lacus cursus laoreet. Duis at tristique dolor. In in pellentesque metus. Suspendisse aliquet arcu mi, sit amet accumsan ligula fringilla quis.
+
+Etiam cursus porttitor arcu a tincidunt. Mauris luctus libero nibh, vel ultricies quam aliquam sit amet. Aenean congue diam non lectus lacinia tincidunt. Curabitur mauris tortor, auctor ac augue id, ultricies rutrum tortor. Etiam iaculis odio vitae nibh pretium tristique. In in sem rutrum, molestie erat vitae, dignissim dui. Morbi sodales purus quis augue blandit consectetur. Curabitur feugiat mauris vel odio accumsan feugiat ut sed tellus. Nam sit amet magna auctor, vehicula est sit amet, rhoncus tortor. Donec dictum, purus vitae porta fermentum, odio mi porta nisi, a rhoncus orci metus nec diam. In libero nunc, pellentesque a bibendum sed, rhoncus tempus ligula. Duis consectetur sem id ex faucibus efficitur. Nam at fermentum eros, at viverra erat. Maecenas eu mauris nisi.
+
+In tincidunt lacinia orci eget pretium. Sed purus lectus, tristique non tempor vel, congue vel tellus. Donec quis pulvinar turpis. Donec tincidunt ipsum ut tortor semper eleifend. Aenean interdum sodales cursus. Aenean eu ligula pulvinar, condimentum mauris quis, ullamcorper tellus. Nam justo neque, rhoncus vel lacus eu, imperdiet lacinia neque. Curabitur vestibulum elit fermentum felis tincidunt eleifend.
+
+Pellentesque aliquam nulla sapien, at auctor orci consectetur vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla facilisi. Fusce pretium facilisis orci a tincidunt. Nulla lobortis laoreet justo sit amet mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius fringilla nunc. Proin sit amet sodales massa, vitae laoreet nisl. Aenean a augue leo. Aenean laoreet lacus neque, quis tristique ex rutrum in. Curabitur vel ligula sit amet est dignissim tempor quis a dui. Aliquam accumsan fringilla diam.
+
+Sed sollicitudin consequat lacinia. Suspendisse eget tempor dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla ac arcu vel lorem accumsan vestibulum. Pellentesque consectetur sed nisl eget fermentum. Mauris pellentesque odio sit amet lectus tincidunt, non bibendum nunc faucibus. Nulla condimentum dui eget metus tristique, a maximus felis rutrum. Duis tristique consectetur libero eget convallis. Quisque eros dui, tempor at nulla nec, ultrices ultricies neque. Phasellus pharetra semper tellus, eu accumsan lacus efficitur et. Mauris mattis nisl magna, quis finibus ante aliquet et. Nullam malesuada lacinia ultrices. Vivamus vestibulum gravida ex, a finibus quam ultrices quis. Quisque eu neque id ligula consequat convallis vel eu magna. Curabitur tempus vestibulum ultrices. Ut sed aliquam diam, vitae porttitor quam.
+
+
+
+
+## <a name="sometext">Notes</a>
+
+<sup
