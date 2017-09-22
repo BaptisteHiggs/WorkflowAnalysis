@@ -4,7 +4,7 @@
 
 As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. They are a solution to a design problem alongside all other architectural elements - but what's the problem?
 
-Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process doors also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time, the leaf of the door<sup>[1](#sometext)</sup> rotates out of the way. Doors (when combined with walls) allow for travel between assymetric architectural spaces.
+Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process doors also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time, the leaf of the door<sup>[1](#notes)</sup> rotates out of the way. Doors (when combined with walls) allow for travel between assymetric architectural spaces.
 
 These assymetries dictate what the needs of the door are, including:
 
@@ -19,7 +19,7 @@ Other issues arise during the operation of the door, such as:
 - Security levels
 - 
 
-The implementations of these issues solved
+The practical solutions of these issues (alongside the legality of certain door specifications) in the design is discussed in the section [What type of door do I need?](#doorType)
 
 ## Do I need a door?
 
@@ -28,13 +28,13 @@ As discussed above, the purpose of a door is to provide access between two assym
 ***Talk about whether an open space might be appropriate, and where to put the door on the wall (legality of position + other stuff)***
 
 
-## What type of door do I need?
+## <a name="doorType">What type of door do I need?</a>
 
 
 
 
 
-## <a name="sometext">Notes</a>
+## <a name="notes">Notes</a>
 
 <sup>1</sup>The leaf of the door is the large part of the door that actually moves. ![Image Missing](http://www.decosoup.com/images/stories/Design_Issues/Windows/Door_nomenclature/Door_terminilogy.jpg)
 
