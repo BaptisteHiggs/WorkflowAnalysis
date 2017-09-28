@@ -69,7 +69,7 @@
 
 4. Save and rename "Untitled1" appropriately.
 
-5. To create the white background, create a new layer:
+5. To create the white background, create a new layer by clicking on the notepad icon in the bottom right hand corner:
 
 ![Missing Image](/AMPColouring/Images/FullscreenNewLayer.png)
 
@@ -89,7 +89,17 @@
 
 ***How do you stitch the file together?? Is it already stitched together??***
 
-2. Put all the different layers into their own distinct folders.
+9. Now, create folders for each seperate layer. To create a new layer, click on the notepad icon in the bottom right hand corner:
+
+![Missing Image](/AMPColouring/Images/FullscreenNewLayer.png)
+
+![Missing Image](/AMPColouring/Images/NewFolder.png)
+
+10. Name each of these folders appropriately. To rename a folder, double click on its name:
+
+![Missing Image](/AMPColouring/Images/RenameFolder.png)
+
+![Missing Image](/AMPColouring/Images/FoldersNamed.PNG)
 
 3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as:
 
