@@ -101,18 +101,17 @@
 
 ![Missing Image](/AMPColouring/Images/FoldersNamed.PNG)
 
-3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as:
+3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as the following:
 
-   1. Plants
-   2. Furniture
-   3. Walls
-   4. Floors
+![Missing Image](/AMPColouring/Images/FoldersOrdered.PNG)
 
 4. Since
 
 ## Edit colouring and add plants
 
-1. 
+1. ..
+
+2. Put plants where they'd look nice.
 
 ## Export from photoshop
 
