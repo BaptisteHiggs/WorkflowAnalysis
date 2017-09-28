@@ -103,7 +103,7 @@
 
 3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as the following:
 
-![Missing Image](/AMPColouring/Images/FoldersOrdered.PNG)
+![Missing Image](/AMPColouring/Images/FoldersOrdered.png)
 
 4. Since
 
