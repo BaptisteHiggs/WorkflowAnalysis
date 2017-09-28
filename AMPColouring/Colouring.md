@@ -57,10 +57,14 @@
 
 2. Put all the different layers into their own distinct folders.
 
-3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the layers are in an appropriate order, such as:
+3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as:
 
-   1. fedf
-   2. 
+   1. Plants
+   2. Furniture
+   3. Walls
+   4. Floors
+
+4. Since
 
 ## Edit colouring and add plants
 
@@ -68,4 +72,4 @@
 
 ## Export from photoshop
 
-1. 
+1. ***ASK FOR RECOMMENDED SETTINGS***
