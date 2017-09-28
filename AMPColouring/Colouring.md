@@ -29,7 +29,7 @@
  
  *Note: These don't all need to be present. For whatever elements are present, creating view templates that logically seperate them is what is necessary*
 
-2. 
+2. ***CONTINUE WITH EXPERIENCE FROM ACTUAL FILE***
 
 ## Export from revit into pdfs
 
@@ -53,7 +53,14 @@
 
 ## Set up file in photoshop
 
-1. *********
+1. ***How do you stitch the file together?? Is it already stitched together??***
+
+2. Put all the different layers into their own distinct folders.
+
+3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the layers are in an appropriate order, such as:
+
+   1. fedf
+   2. 
 
 ## Edit colouring and add plants
 
