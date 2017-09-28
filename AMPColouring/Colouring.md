@@ -53,6 +53,10 @@
 
 ## Set up file in photoshop
 
+1. Open up photoshop, and create a file with the dimensions 4961px (width) by 3508px (height), with a density of 300 pixels per inch. This should be the size of an A2 piece of paper.
+
+![Missing Image](/AMPColouring/Images/NewPS.PNG)
+
 1. ***How do you stitch the file together?? Is it already stitched together??***
 
 2. Put all the different layers into their own distinct folders.
