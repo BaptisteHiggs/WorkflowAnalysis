@@ -69,11 +69,23 @@
 
 4. Save and rename "Untitled1" appropriately.
 
-5. To create the white background, create a new layer,
+5. To create the white background, create a new layer:
 
 ![Missing Image](/AMPColouring/Images/FullscreenNewLayer.png)
 
 ![Missing Image](/AMPColouring/Images/NewLayer.png)
+
+6. Drag the layer to the bottom of the list of layers
+
+7. Select the **Paint Bucket Tool**:
+ 
+![Missing Image](/AMPColouring/Images/BucketTool.png)
+
+8. Then after ensuring that the colour white is selected, left click anywhere on the canvas.
+
+![Missing Image](/AMPColouring/Images/ColourWhite.png)
+
+![Missing Image](/AMPColouring/Images/FullscreenBackground.png)
 
 ***How do you stitch the file together?? Is it already stitched together??***
 
