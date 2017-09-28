@@ -12,7 +12,7 @@
 
 5. Export from photoshop
 
-## <a href="#revitSetUp">Set up correctly in revit</a>
+## <a name="#revitSetUp">Set up correctly in revit</a>
 
 *When it comes down to it I have no idea what I'm doing in revit so good luck.*
 
