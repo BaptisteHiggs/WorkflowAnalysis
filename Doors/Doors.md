@@ -62,7 +62,9 @@ The door needs not only to be able to be used by the general public, but also ne
 
 ![Missing image](/Doors/Images/extrawidth.PNG)
 
- - 
+ - When there are multiple doors in a row (collinear when open), they must be at least 1450mm apart when fully open:
+ 
+![Missing image](/Doors/Images/1450mm.PNG)
 
 
 
