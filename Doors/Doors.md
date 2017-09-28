@@ -19,13 +19,20 @@ Further issues arise during the operation of the door, such as:
 
 - Disabilities
 - Security levels
-- ***Something else??***
+- Traffic
 
 The practical solutions of these issues (alongside the legality of certain door specifications) in the design is discussed in the section [What type of door do I need?](#doorType)
 
 ## Do I need a door?
 
-As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces.
+As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces. However, it is possible that there will always be (or at leas should always be) similar conditions on either side of the door that means a door isn't warranted. If there are no:
+
+ - Necessary differences in temperature,
+ - Loud noises that need to be dampened,
+ - Issues concerning security between the two spaces, or
+ - possible wind or rainfall on either side,
+
+It may be appropriate to have an empty space rather than a door. The empty space's frame will still definitively seperate the two areas, while reducing traffic issues and provide a sense of less constriction. 
 
 ***Talk about whether an open space might be appropriate***
 
@@ -33,7 +40,34 @@ As discussed above, the purpose of a door is to provide access between two assym
 
 The door needs not only to be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)):
 
-- Luminance contrast
+*Note: Most of these points will require you to [know what type of door you're putting in already](#doorType)
+
+- Luminance contrast ***what is this***
+
+- Minimum of an 850mm width for the open space of the door:
+
+![Missing image](/Doors/Images/850mm.PNG)
+
+- Following proportions given door type and approach angle:
+
+![Missing image](/Doors/Images/doorlegend.PNG)
+
+![Missing image](/Doors/Images/doordiag1.PNG)
+
+![Missing image](/Doors/Images/doordiag2.PNG)
+
+![Missing image](/Doors/Images/doordiag3.PNG)
+
+ - For a surface mounted sliding door, the value of *t* in the following diagram (wall thickness to the surface of the door) should be added to the minimum surrounding space in the direction of approach:
+
+![Missing image](/Doors/Images/extrawidth.PNG)
+
+ - 
+
+
+
+
+
 
 
 ***Talk about where to put the door on the wall (after legalities considered)***
