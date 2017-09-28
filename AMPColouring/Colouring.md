@@ -16,14 +16,20 @@
 
 *When it comes down to it I have no idea what I'm doing in revit so good luck.*
 
-1. Ensure that the layers have been correctly made so that each instance in the following list is on a seperate layer:
+1. Ensure that the view templates have been correctly made so that each instance in the following list has been seperated appropriately:
 
- - Tables
+ - Built in joinery
+ - Core & columns
  - Doors
- - Other stuffff
+ - Facade
+ - Floor finishes
+ - Items overhead
+ - Loose furniture
+ - Walls & partitions
  
+ *Note: These don't all need to be present. For whatever elements are present, creating view templates that logically seperate them is what is necessary*
 
-2.
+2. 
 
 ## Export from revit into pdfs
 
@@ -37,15 +43,17 @@
 
 5. Scroll down to ensure that the right check boxes are selected - every layer from above in [step 1 of **Set up correctly in revit**](#revitSetUp) should be selected.
 
-6. 
+6. Select **OK**, then ***SELECT EITHER COMBINE MULTIPLE OR CREATE SEPERATE???***
 
+7. Ensuring that it will save to the right place, select **OK**. 
 
+***CONTINUE WITH EXPERIENCE FROM ACTUAL FILE***
 
 
 
 ## Set up file in photoshop
 
-1. 
+1. *********
 
 ## Edit colouring and add plants
 
