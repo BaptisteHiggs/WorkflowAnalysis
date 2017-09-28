@@ -53,11 +53,29 @@
 
 ## Set up file in photoshop
 
-1. Open up photoshop, and create a file with the dimensions 4961px (width) by 3508px (height), with a density of 300 pixels per inch. This should be the size of an A2 piece of paper.
+~~Open up photoshop, and create a file with the dimensions 4961px (width) by 3508px (height), with a density of 300 pixels per inch. This should be the size of an A2 piece of paper.~~
 
 ![Missing Image](/AMPColouring/Images/NewPS.PNG)
 
-1. ***How do you stitch the file together?? Is it already stitched together??***
+**Above image redundant**
+
+1. Open up photoshop, selecting **Files > Scripts > Load Files into Stack...**
+
+2. After clicking **Browse...**, select all the rendered PDFs, click **Open** and then **OK**.
+
+![Missing Image](/AMPColouring/Images/LoadPDFs.PNG)
+
+3. There should be one file called "Untitled1", alongside each individual pdf. Close all of them except for the one names "Untitled1".
+
+4. Save and rename "Untitled1" appropriately.
+
+5. To create the white background, create a new layer,
+
+![Missing Image](/AMPColouring/Images/FullscreenNewLayer.png)
+
+![Missing Image](/AMPColouring/Images/NewLayer.png)
+
+***How do you stitch the file together?? Is it already stitched together??***
 
 2. Put all the different layers into their own distinct folders.
 
