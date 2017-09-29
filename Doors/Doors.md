@@ -32,9 +32,9 @@ As discussed above, the purpose of a door is to provide access between two assym
  - Issues concerning security between the two spaces, or
  - possible wind or rainfall on either side,
 
-It may be appropriate to have an empty space rather than a door. The empty space's frame will still definitively seperate the two areas, while reducing traffic issues and provide a sense of less constriction. 
+It may be appropriate to have an empty space rather than a door. The empty space's frame will still definitively seperate the two areas, while reducing traffic issues and provide a sense of less constriction.
 
-***Talk about whether an open space might be appropriate***
+There are also some legal requirements to be aware of however, such as the need for two doors between each kitchen and bathroom. For all the legal requirements it must follow, see [the document on this page](https://www.abcb.gov.au/Resources/NCC). You will need to register if you want to download the documents, but it is free.
 
 ## Where do I put the door?
 
@@ -66,7 +66,15 @@ The door needs not only to be able to be used by the general public, but also ne
  
 ![Missing image](/Doors/Images/1450mm.PNG)
 
+ - Door handles need to be 'hooked' so that when holding the handle people with less grip will still be able to hold on. The hook section needs to come towards the wall at least 20mmm, with the gap between the handle's arm and the door being somewhere between 35mm and 45mm:
 
+![Missing image](/Doors/Images/handle.png)
+
+ - For sliding doors, a similar logic applies except that both ends can attach to the door:
+
+![Missing image](/Doors/Images/slidingHandle.png)
+
+Note: These guidelines don't always need to be met, however in buildings that will see use by a variety of people who may be disabled these are required.
 
 
 
