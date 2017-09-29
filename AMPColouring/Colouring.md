@@ -53,12 +53,6 @@
 
 ## Set up file in photoshop
 
-~~Open up photoshop, and create a file with the dimensions 4961px (width) by 3508px (height), with a density of 300 pixels per inch. This should be the size of an A2 piece of paper.~~
-
-![Missing Image](/AMPColouring/Images/NewPS.PNG)
-
-**Above image redundant**
-
 1. Open up photoshop, selecting **Files > Scripts > Load Files into Stack...**
 
 2. After clicking **Browse...**, select all the rendered PDFs, click **Open** and then **OK**.
@@ -101,17 +95,27 @@
 
 ![Missing Image](/AMPColouring/Images/FoldersNamed.PNG)
 
-3. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as the following:
+11. In photoshop, a layer above another in the panel on the right is 'above' in the actual image. Ensure that the folders (and their layers) are in an appropriate order, such as the following:
 
 ![Missing Image](/AMPColouring/Images/FoldersOrdered.png)
 
-4. Since
+12. Create another folder
 
-## Edit colouring and add plants
+13. The file should now be set up correctly for editing the colouring and adding the plants.
+
+## Editing colouring
 
 1. ..
 
-2. Put plants where they'd look nice.
+## Adding plants
+
+1.  Create a new folder, naming it 'plants' (or similar that follows your naming scheme).
+
+***Edit from here on, the following is basically placeholder:***
+
+2.  Find the plants.
+
+3.  Put plants where they'd look nice.
 
 ## Export from photoshop
 
