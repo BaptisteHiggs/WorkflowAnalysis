@@ -40,7 +40,7 @@ There are also some legal requirements to be aware of however, such as the need 
 
 The door needs not only to be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)):
 
-*Note: Most of these points will require you to [know what type of door you're putting in already](#doorType)
+*Note: Some of these points will require you to [know what type of door you're putting in already](#doorType)
 
 - Luminance contrast ***what is this***
 
@@ -66,13 +66,7 @@ The door needs not only to be able to be used by the general public, but also ne
  
 ![Missing image](/Doors/Images/1450mm.PNG)
 
- - Door handles need to be 'hooked' so that when holding the handle people with less grip will still be able to hold on. The hook section needs to come towards the wall at least 20mmm, with the gap between the handle's arm and the door being somewhere between 35mm and 45mm:
 
-![Missing image](/Doors/Images/handle.png)
-
- - For sliding doors, a similar logic applies except that both ends can attach to the door:
-
-![Missing image](/Doors/Images/slidingHandle.png)
 
 Note: These guidelines don't always need to be met, however in buildings that will see use by a variety of people who may be disabled these are required.
 
@@ -108,9 +102,15 @@ LOCKS
 
 
 
+Ensuring that those with disabilities can use the doors:
 
+ - Door handles need to be 'hooked' so that when holding the handle people with less grip will still be able to hold on. The hook section needs to come towards the wall at least 20mmm, with the gap between the handle's arm and the door being somewhere between 35mm and 45mm:
 
+![Missing image](/Doors/Images/handle.png)
 
+ - For sliding doors, a similar logic applies except that both ends can attach to the door:
+
+![Missing image](/Doors/Images/slidingHandle.png)
 
 
 
