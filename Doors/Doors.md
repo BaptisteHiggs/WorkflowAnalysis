@@ -4,7 +4,7 @@
 
 #### *See other document for in-depth door definition and discussion*
 
-As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. They are a solution to a design problem alongside all other architectural elements - but what's the problem?
+As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. They are a solution to a design problem alongside all other architectural elements - but what's the problem that they're actually solving?
 
 Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process doors also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time, the leaf of the door<sup>[1](#notes)</sup> rotates out of the way. Doors (when combined with walls) allow for travel between assymetric architectural spaces.
 
@@ -25,7 +25,7 @@ The practical solutions of these issues (alongside the legality of certain door 
 
 ## Do I need a door?
 
-As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces. However, it is possible that there will always be (or at leas should always be) similar conditions on either side of the door that means a door isn't warranted. If there are no:
+As discussed above, the purpose of a door is to provide access between two assymetric architectural spaces. However, it is possible that there are similar desired conditions on either side of the door that means a door isn't warranted. If there are no:
 
  - Necessary differences in temperature,
  - Loud noises that need to be dampened,
@@ -34,7 +34,7 @@ As discussed above, the purpose of a door is to provide access between two assym
 
 It may be appropriate to have an empty space rather than a door. The empty space's frame will still definitively seperate the two areas, while reducing traffic issues and provide a sense of less constriction.
 
-There are also some legal requirements to be aware of however, such as the need for two doors between each kitchen and bathroom. For all the legal requirements it must follow, see [the document on this page](https://www.abcb.gov.au/Resources/NCC). You will need to register if you want to download the documents, but it is free.
+There are also some legal requirements to be aware of however (such as the need for two doors between each kitchen and bathroom). For all the legal requirements it must follow, see [the document on this page](https://www.abcb.gov.au/Resources/NCC). You will need to register if you want to download the documents, but it is free.
 
 ## Where do I put the door?
 
@@ -94,8 +94,6 @@ After the location of the door has been selected, you'll need to meet with a bui
 If you'd like to attempt this without a consultant [here is a link](https://www.abcb.gov.au/Resources/NCC) to all the official resources (although you'll need to register an account to view the material). Attempting this without a consultant is not a good idea.
 
 ***TALK ABOUT:***
-SYSATFUYMFBAN
-
 
 DIMENSIONS STUFF?
 LOCKS
