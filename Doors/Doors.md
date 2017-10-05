@@ -135,5 +135,5 @@ LOOOOOOOOOOOOOOOOOOOOOCKS
 
 <sup>1</sup>The leaf of the door is the large part of the door that actually moves. ![Image Missing](http://www.decosoup.com/images/stories/Design_Issues/Windows/Door_nomenclature/Door_terminilogy.jpg)
 
-<sup>2</sup>The architrave is the outer part of the door frame, whereas the jamb is the inner part.
+<sup>2</sup>The architrave is the outer part of the door frame (called casing in the above image), whereas the jamb is the inner part.
 ![Missing image](/Doors/Images/jamb_architrave.png)
