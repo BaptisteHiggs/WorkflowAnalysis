@@ -78,6 +78,16 @@ Note: These guidelines don't always need to be met, however in buildings that wi
 
 ## <a name="doorType">What type of door do I need?</a>
 
+******
+
+### Thoughts on door decision process
+
+1. Is it a fire door?
+
+2. 
+
+*****
+
 After the location of the door has been selected, you'll need to decide on what type of door to use (swing/sliding/pivot). ***HOW TO DECIDE DOOR TYPE***.
 
 Once you've chosen a door type, you'll need to choose the materials of the door's frame and leaf. If you're working on a non-residential building (or a public section of a residential building), there needs to be a minimum of a 30% luminance contrast between the following items:
