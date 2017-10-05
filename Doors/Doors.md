@@ -38,11 +38,9 @@ There are also some legal requirements to be aware of however (such as the need 
 
 ## Where do I put the door?
 
-The door needs not only to be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)):
+The door needs not only to be able to be used by the general public, but also needs to be able to be used by those with disabilities. The following regulations ensure that doors abide by these standards ([link to the official document, pg. 56-66](https://threedimensionallandscapejournal.files.wordpress.com/2014/03/1428-1-2009a1.pdf)), which is required for any non-residential buildings & public sections of residential buildings (e.g. apartment foyers):
 
 *Note: Some of these points will require you to [know what type of door you're putting in already](#doorType)
-
-- Luminance contrast ***what is this***
 
 - Minimum of an 850mm width for the open space of the door:
 
@@ -93,14 +91,30 @@ After the location of the door has been selected, you'll need to meet with a bui
 
 If you'd like to attempt this without a consultant [here is a link](https://www.abcb.gov.au/Resources/NCC) to all the official resources (although you'll need to register an account to view the material). Attempting this without a consultant is not a good idea.
 
+
 ***TALK ABOUT:***
 
+
+
 DIMENSIONS STUFF?
-LOCKS
 
 
 
-Ensuring that those with disabilities can use the doors:
+Ensuring that those with disabilities can use the doors (required for any non-residential buildings & public sections of residential buildings - e.g. apartment foyers):
+
+ - A minimum luminance contrast of 30% between the following elements ([see here for element description](#notes)) needs to be observed:
+ 
+   - Door leaf and door jamb
+
+   - Door leaf and adjacent wall
+   
+   - Architrave<sup>2</sup> and wall
+   
+   - Door leaf and architrave; OR
+    
+   - Door jamb and adjacent wall
+   
+   *Note: Luminance contrast means the difference in reflected light between two objects. In order to calculate the luminance contrast, the Luminance Reflective Values (LRVs) of the different objects. Then, the Bowman-Sapolinksi equation can be used to calculate the luminance contrast - [here is an online calculator](https://luminos.com.au/luminous-calculator-bowman-sapolinski-equation/) that uses this.*
 
  - Door handles need to be 'hooked' so that when holding the handle people with less grip will still be able to hold on. The hook section needs to come towards the wall at least 20mmm, with the gap between the handle's arm and the door being somewhere between 35mm and 45mm:
 
@@ -110,8 +124,10 @@ Ensuring that those with disabilities can use the doors:
 
 ![Missing image](/Doors/Images/slidingHandle.png)
 
+ - All pivot doors that need to be used by disabled people need to be motorised.
 
 
+LOOOOOOOOOOOOOOOOOOOOOCKS
 
 
 
@@ -119,4 +135,5 @@ Ensuring that those with disabilities can use the doors:
 
 <sup>1</sup>The leaf of the door is the large part of the door that actually moves. ![Image Missing](http://www.decosoup.com/images/stories/Design_Issues/Windows/Door_nomenclature/Door_terminilogy.jpg)
 
-
+<sup>2</sup>The architrave is the outer part of the door frame, whereas the jamb is the inner part.
+![Missing image](/Doors/Images/jamb_architrave.png)
