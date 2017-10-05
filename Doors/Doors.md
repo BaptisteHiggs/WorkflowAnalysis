@@ -86,7 +86,7 @@ Once you've chosen a door type, you'll need to choose the materials of the door'
 
  - Door leaf and adjacent wall
    
- - Architrave<sup>2</sup> and wall
+ - Architrave<sup>[2](#notes)</sup> and wall
    
  - Door leaf and architrave; OR
     
