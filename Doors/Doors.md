@@ -78,43 +78,37 @@ Note: These guidelines don't always need to be met, however in buildings that wi
 
 ## <a name="doorType">What type of door do I need?</a>
 
-After the location of the door has been selected, you'll need to meet with a buildings code consultant to discuss the legal requirements of the door being constructed, based on the factors that you need to fulfil. It will be helpful to know the following information:
+After the location of the door has been selected, you'll need to decide on what type of door to use (swing/sliding/pivot). ***HOW TO DECIDE DOOR TYPE***.
 
-- **Building class**
-  
-  There are 10 classes, each detailed [here](https://www.abcb.gov.au/-/media/Files/Resources/Education-Training/Building-classifications.pdf).
+Once you've chosen a door type, you'll need to choose the materials of the door's frame and leaf. If you're working on a non-residential building (or a public section of a residential building), there needs to be a minimum of a 30% luminance contrast between the following items:
 
-- **Fire door locations**
+ - Door leaf and door jamb
 
-- 
+ - Door leaf and adjacent wall
+   
+ - Architrave<sup>2</sup> and wall
+   
+ - Door leaf and architrave; OR
+    
+ - Door jamb and adjacent wall
+   
+The luminance contrast means the difference in reflected light between two objects. In order to calculate the luminance contrast, the Luminance Reflective Values (LRVs) of the different objects need to be known. Then, the Bowman-Sapolinksi equation can be used to calculate the luminance contrast - [here is an online calculator](https://luminos.com.au/luminous-calculator-bowman-sapolinski-equation/) that uses this.
+
+***HOW TO DECIDE MATERIALS AFTER CONTRAST ESTABLISHED*** Possibly just aesthetics of surrounding architecture?
 
 
-If you'd like to attempt this without a consultant [here is a link](https://www.abcb.gov.au/Resources/NCC) to all the official resources (although you'll need to register an account to view the material). Attempting this without a consultant is not a good idea.
+After you've decided on the materials for the door, you'll need to meet with a consultant (most likely from lockwood) to discuss the legal requirements of the door being constructed, based on the factors that you need to fulfil. It will be helpful to have the plan(s) of the door(s) you're discussing and to know what the purpose of the door is.
+
+If you'd like to attempt this without a consultant [here is a link](https://www.abcb.gov.au/Resources/NCC) to all the official resources (although you'll need to register an account to view the material). Attempting this without a consultant is not a good idea (no-one does this). If you're unsure about any of the information required on ***THE SHEET***, the consultant can fill in the gaps.
 
 
 ***TALK ABOUT:***
 
 
-
 DIMENSIONS STUFF?
 
 
-
 Ensuring that those with disabilities can use the doors (required for any non-residential buildings & public sections of residential buildings - e.g. apartment foyers):
-
- - A minimum luminance contrast of 30% between the following elements ([see here for element description](#notes)) needs to be observed:
- 
-   - Door leaf and door jamb
-
-   - Door leaf and adjacent wall
-   
-   - Architrave<sup>2</sup> and wall
-   
-   - Door leaf and architrave; OR
-    
-   - Door jamb and adjacent wall
-   
-   *Note: Luminance contrast means the difference in reflected light between two objects. In order to calculate the luminance contrast, the Luminance Reflective Values (LRVs) of the different objects. Then, the Bowman-Sapolinksi equation can be used to calculate the luminance contrast - [here is an online calculator](https://luminos.com.au/luminous-calculator-bowman-sapolinski-equation/) that uses this.*
 
  - Door handles need to be 'hooked' so that when holding the handle people with less grip will still be able to hold on. The hook section needs to come towards the wall at least 20mmm, with the gap between the handle's arm and the door being somewhere between 35mm and 45mm:
 
