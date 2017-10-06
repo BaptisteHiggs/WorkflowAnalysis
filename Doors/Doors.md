@@ -66,7 +66,7 @@ The door needs not only to be able to be used by the general public, but also ne
 
 
 
-Note: These guidelines don't always need to be met, however in buildings that will see use by a variety of people who may be disabled these are required.
+Note: These guidelines don't always need to be met, however in buildings that will see use by a variety of people who may be disabled these are required. Following these diagrams are suggested as a minimum requirement, but this does not remove liability to being sued by those with disabilities.
 
 
 
@@ -88,9 +88,11 @@ Note: These guidelines don't always need to be met, however in buildings that wi
 
 *****
 
+Deciding what type of door is needed involves a multitude of consultancy meetings, especially on larger jobs such as hospitals. The following are the consultants that possibly need to be met with. As different consultants will require different changes in the design, 
+
 After the location of the door has been selected, you'll need to decide on what type of door to use (swing/sliding/pivot). ***HOW TO DECIDE DOOR TYPE***.
 
-Once you've chosen a door type, you'll need to choose the materials of the door's frame and leaf. If you're working on a non-residential building (or a public section of a residential building), there needs to be a minimum of a 30% luminance contrast between the following items:
+Once you've chosen a door type, you'll need to choose the materials of the door's frame and leaf. If you're working on a door that will be accessed by the general public (if there is a reasonable chance that an indivdual with visual impairment will use the door), there needs to be a minimum of a 30% luminance contrast between the following items:
 
  - Door leaf and door jamb
 
@@ -105,7 +107,7 @@ Once you've chosen a door type, you'll need to choose the materials of the door'
 The luminance contrast means the difference in reflected light between two objects. In order to calculate the luminance contrast, the Luminance Reflective Values (LRVs) of the different objects need to be known. Then, the Bowman-Sapolinksi equation can be used to calculate the luminance contrast - [here is an online calculator](https://luminos.com.au/luminous-calculator-bowman-sapolinski-equation/) that uses this.
 
 ***HOW TO DECIDE MATERIALS AFTER CONTRAST ESTABLISHED*** Possibly just aesthetics of surrounding architecture?
-
+Further factors that need to be considered when deciding on the materials of the door are the sound reduction, fire protection and ***FINISH THIS***
 
 After you've decided on the materials for the door, you'll need to meet with a consultant (most likely from lockwood) to discuss the legal requirements of the door being constructed, based on the factors that you need to fulfil. It will be helpful to have the plan(s) of the door(s) you're discussing and to know what the purpose of the door is.
 
