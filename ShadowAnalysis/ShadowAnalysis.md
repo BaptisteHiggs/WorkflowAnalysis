@@ -156,7 +156,7 @@ Necessary plugins: Wild Animals, Ladybug
 
 2. Create the *Ladybug_Ladybug* component. This component doesn't need to be connected to anything, but just initialises some classes that other components need to run.
 
-![Missing Image](images/ladybug_ladybu.png)
+![Missing Image](images/ladybug_ladybug.png)
 
 3. Create the *open weather file* component, and attach a boolean toggle to it.
 
