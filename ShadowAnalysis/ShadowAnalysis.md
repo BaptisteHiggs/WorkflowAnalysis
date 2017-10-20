@@ -16,8 +16,28 @@ The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and c
 #### Inputs:
 
  - **Geoms.**
+ 
    Short for geometry, the geoms input takes the buildings and structures that are going to be analysed for their shadow's impact. These can either meshes or polysurfaces, although it is worth considering which to use, [as is discussed here](#meshpoly).
 
+ - **Context.**
+ 
+   The context input takes the terrain that the buildings are on (and that the shadows will be projected on to). This can also either be a mesh or a polysurface.
+
+
+ - **sunVec.**
+ 
+   Short for Sun Vector(s), *what are these??? how are they generated (with ladybug, but how)?*
+
+
+ - **sunPos.**
+ 
+   Short for Sun Position(s), *what are these??? how are they generated (with ladybug, but how)?*
+
+
+ - **A/I.**
+ 
+   Short for ?? , this controls whether the shadows produced are seperated per building or not. This can be controlled by connecting a boolean toggle, where *True* means that the building's shadows are connected, and *False* means that each building is seperate.
+   
 
 
 ### <a name="meshpoly">Mesh vs Polysurface</a>
