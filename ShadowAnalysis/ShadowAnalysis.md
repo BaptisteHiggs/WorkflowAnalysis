@@ -1,10 +1,9 @@
 # Shadow Analysis - Wild Animals Plugin
 
+
 ### Why do a shadow analysis?
 
-### What makes Wild Animals Ghost component different?
-
-There are many other shadow analysis tools and workflows that are native to a variety of environments, so the fact that this plugin can do shadow analysis is not its defining feature. Instead, this component allows for analysis of individual buildings and structure's impacts on their environments, in a uniquely quantifiable way. **Finish this**
+sdgasfdgadfhadgh
 
 
 ### What does the plugin do?
@@ -44,13 +43,18 @@ The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and c
 
 Mesh = easier for the computer; polysurface = easier for the user
 
-------
+
+### Ladybug
+
+
+
+### Standard Workflow
 
 Necessary plugins: GHOST, Ladybug
 
 1. **File > Worksession > Attach** building files
 
-2. File > Worksession > Attach terrain files
+2. **File > Worksession > Attach** terrain files
 
 3. Copy the building and terrain files into their own layers
 
@@ -62,7 +66,7 @@ Necessary plugins: GHOST, Ladybug
 
 7. The buildings are now ready to be imported into grasshopper. Open up grasshopper, importing the buildings and the terrain.
 
-8. In order to determine the shadows, we'll need data on the sun and it's location.
+8. In order to determine the shadows, we'll need data on the sun and it's location, which will be provided by ladybug. Assuming that you already have Ladybug installed, to get the relevant EPW (**E**nergy**P**lus **W**eather) files, we'll need to visit [this website](http://www.ladybug.tools/epwmap/).
 
-9. 
+9. After navigating to the relevant location, right click
 
