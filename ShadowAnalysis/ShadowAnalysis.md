@@ -160,11 +160,11 @@ Necessary plugins: Wild Animals, Ladybug
 
 3. Create the *open weather file* component, and attach a boolean toggle to it.
 
-![images/openEPW.png]
+![Missing Image](images/openEPW.png)
 
 4. Double click the boolean toggle - this should open up a window that will let you pick a file. Select the EPW file we downloaded earlier.
 
-![images/fileExplorer.png]
+![Missing Image](images/fileExplorer.png)
 
 5. 
 
