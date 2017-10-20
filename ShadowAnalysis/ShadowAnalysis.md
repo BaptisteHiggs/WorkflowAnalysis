@@ -9,7 +9,7 @@ There are many other shadow analysis tools and workflows that are native to a va
 
 ### What does the plugin do?
 
-![Missing Image](images/plugin.png)
+![Missing Image](images/GhostComponent.png)
 
 The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and currently used for development). Here's an explanation of how to use them and what they do:
 
