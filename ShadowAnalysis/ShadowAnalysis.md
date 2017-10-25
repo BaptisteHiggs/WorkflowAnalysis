@@ -180,19 +180,33 @@ Necessary plugins: Wild Animals, Ladybug
 
 8. To analyse a longer period of time than one hour, you can use the *analysisPeriod* component. Connect the 'analysisPeriod' output on the component to the 'analysisPeriod_' input on the sunPath component to use it.
 
-   *Note: This will override any other above inputs that are used to control the time.
+   *Note: This will override any other above inputs that are used to control the time.*
    
 ![Upload this image!!!](images/analysisPeriod_connection.png)
 
-# *Some issues with getting sunPath to work, something about needing more than 1 value to unpack.
-
-9. 
+9. Explain dat analysis period
 
 ![Missing Image](images/analysisPeriod.png)
 
 ### GHOST Component
 
 1. Open up grasshopper, importing the buildings and the terrain.
+
+![Missing Image](images/importMeshes.PNG)
+
+2. Going back to the *sunPath* component, connect the output to a *point* component.
+
+![Missing Image](images/sunPositions.png)
+
+3. Right click on the *point* component, and select 'Internalise Data'. This ensures that if the previous components are changed in any way, it won't affect the shadow analysis script (which can be quite computationally expensive!). 
+
+![Missing Image](images/internaliseData.png)
+
+4. Repeat steps 2 & 3, except with the 'sunVectors' output, and the *vector* component.
+
+5. Connect the building meshes to 'geoms', the terrain meshes to 'context', the sun vectors to 'sunVec', and the sun's positions to 'sunPos'. This will likely take a decent amount of time load, depending on how beefy your computer is and how many buildings and points you've asked it to render from.
+
+![Missing Image](images/ghostConnected.png)
 
 
 
