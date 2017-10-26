@@ -72,6 +72,9 @@ There are a few reasons as too why a shadow analysis might be a good idea. One o
 
 In these points, direct sunlight is defined as *"a minimum of 1m<sup>2</sup> of direct sunlight, measured at 1m above floor level, is achieved for at least 15 minutes"*. With this in place, it's necessary to perform solar analysis.
 
+Other than legalities, the reasoning behind the policy being in place is that more sunlight access leads to a greater quality of life, which in itself is a good reason to perform a shadow analysis. [Many studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2728098/) [have shown](https://www.adv-sci-res.net/6/281/2011/asr-6-281-2011.pdf) [that sunlight](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2290997/) [can help with](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/6576/1/Joarder-et-al%5B1%5D.pdf) [mental health issues](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/73377/j.1467-9280.2005.01602.x.pdf;sequence=1) [and](http://iicbe.org/upload/4635AE0416104.pdf) [generally improve](http://www.larspenke.eu/pdfs/Denissen_Butalid_Penke_van_Aken_2008_-_Weather_and_mood.pdf) [quality of life](https://phoenixprojectfoundation.us/uploads/BioLight-Sunlight___Infection_Control.pdf).
+
+
 ### <a name="ghostFunctions">What does the plugin do?</a>
 
 ![Missing Image](images/GhostComponent.png)
@@ -235,7 +238,7 @@ Necessary plugins: Wild Animals, Ladybug
 
 ![Missing Image](images/ghostConnected.png)
 
-6. The curves exported 
+6. The curves exported are now finished and ready for solar analysis!
 
 
 
