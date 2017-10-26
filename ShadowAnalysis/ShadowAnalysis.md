@@ -56,6 +56,8 @@
 
 3. Mesh vs Polysurface
 
+4. Working with the analysisPeriod component
+
 ### Why do a shadow analysis?
 
 sdgasfdgadfhadgh
@@ -67,7 +69,7 @@ sdgasfdgadfhadgh
 
 The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and currently used for development). Here's an explanation of how to use them and what they do:
 
-#### Inputs:
+#### <a name="ghostInputs">Inputs:</a>
 
  - **Geoms.**
  
@@ -104,7 +106,19 @@ The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and c
 Mesh = easier for the computer; polysurface = easier for the user
 
 
+### <a name="analysisPeriod">Working with the analysisPeriod component</a>
 
+Although the inputs of *analysisPeriod* and its function seem quite intuitive, there are some things that should be noted:
+
+ - The analysis does not include the 'to' hour. For example, if 'from' was 11am on the 3rd of December, 'to' was 2pm on the 3rd of December, and '\_timestep_' was set to 2, the times calculated would be 11am, 11:30am, 12pm, 12:30pm, 1pm, and 1:30pm (all on the 3rd of December).
+    
+ - The '\_fromMonth_', '\_fromDay_', '\_toMonth_', and '\_toDay_' inputs likely work the same as what you would expect, with the dates being generated inlcuding every day between the from and the to dates, including those dates. For example, if the from date was the 2nd of November and the to date was the 4th of December, the dates generated would be 2/11, 3/11, 4/11, 5/11, 6/11, ..., 30/11, 1/12, 2/12, 3/12, 4/12.
+    
+ - The same logic doesn't apply to the '\_fromHour_' and '\_toHour_' outputs however. Instead, these restrictions are applied to every day specified by the other inputs. For example, if 'from' was set to 4pm on the 14th of November, 'to' was set to 6pm on the 15th of November, and '\_timestep_' was set to 1, the calculated times would be 4pm on 14/11, 5pm on 14/11, 4pm on 15/11, and 5pm on 15/11.
+    
+ - Analysis can't happen between one day and the next. If one time is "before" another, the *analysisPeriod* component will automatically swap the two times, throwing up a warning message explaining that ladybug can't do that yet. For example, if the 'from' time was set to 8am, the 'to' time to 5am, and '\_timestep_' to 2, the times generated would be 5am, 5:30am, 6am, 6:30am, 7am, and 7:30am.
+    
+ - The format exported by *analysisPeriod* is a pair of tuples, one to describe the 'from' time and the next to describe the 'to' time. The format of these tuples is in reverse-significance order (month, day, hour). 
 
 
 ## Standard Workflow
@@ -180,13 +194,17 @@ Necessary plugins: Wild Animals, Ladybug
 
 8. To analyse a longer period of time than one hour, you can use the *analysisPeriod* component. Connect the 'analysisPeriod' output on the component to the 'analysisPeriod_' input on the sunPath component to use it.
 
-   *Note: This will override any other above inputs that are used to control the time.*
+   *Note: This will override the '\_hour_', '\_day_', and '\_month_' inputs (but not the '\_timestep_' input)*
    
 ![Upload this image!!!](images/analysisPeriod_connection.png)
 
-9. Explain dat analysis period
+9. The inputs for analysis period are fairly straightforward, each being an integer representing the hour, day or month of either the start date of the analysis period or the end date.
 
 ![Missing Image](images/analysisPeriod.png)
+
+   *Note: There are some technicalities as to how the *analysisPeriod* component works, [see here](#analysisPeriod) for details.
+
+10. Everything should be set up now for the GHOST component!
 
 ### GHOST Component
 
@@ -204,11 +222,11 @@ Necessary plugins: Wild Animals, Ladybug
 
 4. Repeat steps 2 & 3, except with the 'sunVectors' output, and the *vector* component.
 
-5. Connect the building meshes to 'geoms', the terrain meshes to 'context', the sun vectors to 'sunVec', and the sun's positions to 'sunPos'. This will likely take a decent amount of time load, depending on how beefy your computer is and how many buildings and points you've asked it to render from.
+5. Connect the building meshes to 'geoms', the terrain meshes to 'context', the sun vectors to 'sunVec', and the sun's positions to 'sunPos'. This will likely take a decent amount of time load, depending on how beefy your computer is and how many buildings and points you've asked it to render from. See [here](#ghostInputs) for a deeper explanation of the different inputs and outputs of the GHOST component.
 
 ![Missing Image](images/ghostConnected.png)
 
-
+6. The curves exported 
 
 
 
