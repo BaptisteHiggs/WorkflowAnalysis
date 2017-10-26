@@ -1,5 +1,7 @@
 # DOORS
 
+     Edit: I have come to the conclusion that to complete a document transcribing the workflow for doors is currently an unrealistic goal, due to the interpersonal requirements of the tasks that need to be achieved. There are too many experts that need to be sought after, too many variables that currently need to be considered, and there is a concerning lack of rigour in the legalities of doors. Although it would be technically possible to note all these factors down, such a project would either take an inconceivable amount of time, or be lacking in necessary detail. It seems that the way forward regarding doors requires fundamental reform. Automation technologies will eventually reach a point where doors are much simpler to produce, and I hope for the sake of the sanity of everyone involved in the process that this date is very soon.
+
 ## What are doors?
 
 #### *See other document for in-depth door definition and discussion*
