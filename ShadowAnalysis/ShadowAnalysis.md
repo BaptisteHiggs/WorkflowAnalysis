@@ -60,16 +60,25 @@
 
 ### Why do a shadow analysis?
 
-sdgasfdgadfhadgh
+There are a few reasons as too why a shadow analysis might be a good idea. One of the main considerations is legality, especially when designing residential apartments. The NSW government's department of planning in 2015 enacted SEPP 65 (State Environmental Planning Policy No. 65), which includes regulations on minimum sunlight access to apartments. The design criteria set out in the policy includes 3 points:
 
+1. *Living rooms and private open spaces of at least 70% of apartments in a building receive a minimum of 2hours direct sunlight between 9am and 3pm at mid-winter in the Sydney Metropolitan Area and in the Newcastle and Wollongong local government areas.*
 
-### What does the plugin do?
+2. *In all other areas, living rooms and private open spaces of at least 70% of apartments in a building receive a minimum of 3 hours direct sunlight between 9am and 3pm at mid winter.*
+
+3. *A maximum of 15% of apartments in a building receive no direct sunlight between 9am and 3pm at mid winter*
+
+[(Source)](http://www.planning.nsw.gov.au/~/media/78489D620B0C478DA6F0F75267226E43.ashx)
+
+In these points, direct sunlight is defined as *"a minimum of 1m<sup>2</sup> of direct sunlight, measured at 1m above floor level, is achieved for at least 15 minutes"*. With this in place, it's necessary to perform solar analysis.
+
+### <a name="ghostFunctions">What does the plugin do?</a>
 
 ![Missing Image](images/GhostComponent.png)
 
 The plugin takes 5 inputs, and has 1 output (the 'out' output is temporary and currently used for development). Here's an explanation of how to use them and what they do:
 
-#### <a name="ghostInputs">Inputs:</a>
+#### Inputs:
 
  - **Geoms.**
  
@@ -184,7 +193,7 @@ Necessary plugins: Wild Animals, Ladybug
 
 ![Missing Image](images/importEPW.png)
 
-6. Create the *sunPath* component, connecting the 'location' output of the *importEPW* component to *sunPath*'s '\_location' output. The sunPath component generates a lot of different data about the sun, some of which will be used with the GHOST component to do the shadow analysis.
+6. Create the *sunPath* component, connecting the 'location' output of the *importEPW* component to *sunPath*'s '\_location' input. The sunPath component generates a lot of different data about the sun, some of which will be used with the GHOST component to do the shadow analysis.
 
 ![Missing Image](images/sunPath.png)
 
@@ -222,7 +231,7 @@ Necessary plugins: Wild Animals, Ladybug
 
 4. Repeat steps 2 & 3, except with the 'sunVectors' output, and the *vector* component.
 
-5. Connect the building meshes to 'geoms', the terrain meshes to 'context', the sun vectors to 'sunVec', and the sun's positions to 'sunPos'. This will likely take a decent amount of time load, depending on how beefy your computer is and how many buildings and points you've asked it to render from. See [here](#ghostInputs) for a deeper explanation of the different inputs and outputs of the GHOST component.
+5. Connect the building meshes to 'geoms', the terrain meshes to 'context', the sun vectors to 'sunVec', and the sun's positions to 'sunPos'. This will likely take a decent amount of time load, depending on how beefy your computer is and how many buildings and points you've asked it to render from. See [here](#ghostFunctions) for a deeper explanation of the different inputs and outputs of the GHOST component.
 
 ![Missing Image](images/ghostConnected.png)
 
