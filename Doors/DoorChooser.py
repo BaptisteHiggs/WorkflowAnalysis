@@ -164,6 +164,11 @@ def ask(question, answers="integer"):
         raise ValueError("Question construction error. Bad answer type.")
 
 
+def exportToCSV():
+    for line in 
+
+
+
 def questionnaire():
     """
     Run the questionnaire and determine the appropriate door.
@@ -215,6 +220,3 @@ def questionnaire():
         # TAKE MORE INTO CONSIDERATION
         print("No? Some common door heights include 2040mm and 2340mm")
         ask("How high should the door be then? Please enter your answer in millimetres. ", (0, floorHeight))
-    
-
-    
