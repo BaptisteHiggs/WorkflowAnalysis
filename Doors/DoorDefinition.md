@@ -1,10 +1,20 @@
 # What are doors?
 
-As common as doors are, and as standardised as they may seem, doors come in a plethora of forms, each instance innate to its own environment and needs. Often, it's quite easy for us to distinguish between what is a door and what isn't.
+As common as doors are, and as standardised as they may seem, doors come in a lot of different shapes and sizes. It's usually fairly easy to tell what's a door and what isn't.
 
 ![Link to image](http://www.decosoup.com/images/stories/Design_Issues/Windows/Door_nomenclature/Door_terminilogy.jpg)
 
-The above diagram depicts a common door in the modern era. The three main parts of it include the leaf, the frame and the handle; however, if you were to remove one of these, can it still be considered a door? If there were no handle it's likely that you would still consider this to be a door, but how about the leaf? What if the frame and the handle are removed, but the leaf remained? Although practical for the most part, as doors remove themselves further from the classical definition and still remain 'doors' according to an overwhelming majority this definition breaks down fairly quickly.
+If I asked you to think of a door, you'd probably think of something pretty similar to the door pictured above. It has a rectangular shape, a handle, a leaf, a hinge, some casing and a flat wall to surround it. However, not all doors are as simple as this. Would you still call it a door if the handle was removed? What about the casing? The leaf? The problem is a lot harder than just asking if it has a certain set of elements.
+
+
+-----------
+
+&#x25B2; Editted
+
+&#x25BC; Uneditted (written a bit like an essay that the comp design theory tutors would appreciate)
+
+-----------
+
 
 ## Definitions and perceptions
 
