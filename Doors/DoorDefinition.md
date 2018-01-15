@@ -1,6 +1,6 @@
 # What are doors?
 
-As common as doors are, and as standardised as they may seem, doors come in a lot of different shapes and sizes. It's usually fairly easy to tell what's a door and what isn't.
+As common as doors are, and as standardised as they may seem, doors come in a lot of different shapes and sizes. It's usually fairly easy to tell what is a door and what isn't.
 
 ![Link to image](http://www.decosoup.com/images/stories/Design_Issues/Windows/Door_nomenclature/Door_terminilogy.jpg)
 
