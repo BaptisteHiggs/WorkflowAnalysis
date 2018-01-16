@@ -6,26 +6,21 @@ As common as doors are, and as standardised as they may seem, doors come in a lo
 
 If I asked you to think of a door, you'd probably think of something pretty similar to the door pictured above. It has a rectangular shape, a handle, a leaf, a hinge, some casing and a flat wall to surround it. However, not all doors are as simple as this. Would you still call it a door if the handle was removed? What about the casing? The leaf? The problem is a lot harder than just asking if it has a certain set of elements.
 
+## A door's purpose.
+
+To decide on what a door is and what a door isn't, we have to look at the purpose of a door.
+
+Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces, but still allow for people to travel through between them. More than this, they minimise the amount of effort needed to go between two spaces; instead of destroying the wall each time and rebuilding it, the door provides a passageway.
+
+This has been true for all of history. Some of the first doors documented were used as seperations between holy/sacred places and the outside world, most likely due to their expensive nature. In ~2490BC the pyramid of Giza had a door that seperated the king's tomb from the outer regions, and the door in Solomon's Temple (~850BC) seperated the "holy of holies" from the outer ring.
 
 -----------
 
 &#x25B2; Editted
 
-&#x25BC; Uneditted (written a bit like an essay that the comp design theory tutors would appreciate)
+&#x25BC; Uneditted (written a bit like an essay that the comp design theory tutors would probably appreciate)
 
 -----------
-
-
-## Definitions and perceptions
-
-Definitions are inherently attempts at bridging the gap of qualia while appealing to other pre-defined terms, and so when attempting to define what a door is, it's important to acknowledge that no perfect definition can be reached but rather just a subjective attempt. Having said that, that's the nature of all defintions, and we can still try and find a compromising consensus on the term by observing what is and isn't considered to be a door. 
-
-## A door's purpose.
-
-*Why do we have doors?* Because if there was only wall, there would be no way of travelling into the space enclosed.
-*Why don't we just have holes?* It depends. Sometimes we can, (***Note:*** Are holes in walls doors? I made the presumption here that they weren't, because it's difficult to proceed otherwise, although it could be argued that they are.) 
-
-Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces physically until a point in time where someone or something needs to travel from one to the other. In this process doors also minimise the energy expenditure needed to achieve this; rather than having to destroy the wall and rebuild it each time, the leaf of the door<sup>[1](#notes)</sup> rotates out of the way. Doors (when combined with walls) allow for travel between assymetric architectural spaces.
 
 These assymetries dictate what the needs of the door are, including:
 
