@@ -16,7 +16,7 @@ Some of the first doors documented were used as seperations between holy/sacred 
 
 From history we can see that doors are the tool used to travel between two different spaces on either side of a wall. They seperate the two spaces, but still allow for people to travel through between them. More than this, they minimise the amount of effort needed to go between two spaces; instead of destroying the wall each time and rebuilding it, the door provides a passageway.
 
-
+When it comes down to it, 
 
 -----------
 
