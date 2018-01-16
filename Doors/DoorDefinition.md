@@ -14,7 +14,7 @@ Primarily, doors are the tool used to travel between two spaces on either side o
 
 This has been true for all of history. Some of the first doors documented were used as seperations between holy/sacred places and the outside world, most likely due to their expensive nature. In ~2490BC the pyramid of Giza had a door that seperated the king's tomb from the outer regions, and the door in Solomon's Temple (~850BC) seperated the "holy of holies" from the outer ring. As resources and building techniques became more plentiful, doors became more extravagant ([see the Pantheon's 7.3m double bronze doors](#pantheondoors))
 
-<a name="pantheondoors">![Missing Image](images/pantheondoors.jpg)</a>
+<a name="pantheondoors">![Missing Image](Images/pantheondoors.jpg)</a>
 
 -----------
 
