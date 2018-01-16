@@ -10,11 +10,13 @@ If I asked you to think of a door, you'd probably think of something pretty simi
 
 To decide on what a door is and what a door isn't, we have to look at the purpose of a door.
 
-Primarily, doors are the tool used to travel between two spaces on either side of a wall. They seperate the two spaces, but still allow for people to travel through between them. More than this, they minimise the amount of effort needed to go between two spaces; instead of destroying the wall each time and rebuilding it, the door provides a passageway.
-
-This has been true for all of history. Some of the first doors documented were used as seperations between holy/sacred places and the outside world, most likely due to their expensive nature. In ~2490BC the pyramid of Giza had a door that seperated the king's tomb from the outer regions, and the door in Solomon's Temple (~850BC) seperated the "holy of holies" from the outer ring. As resources and building techniques became more plentiful, doors became more extravagant ([see the Pantheon's 7.3m double bronze doors](#pantheondoors))
+Some of the first doors documented were used as seperations between holy/sacred places and the outside world, most likely due to their expensive nature. In ~2490BC the pyramid of Giza had a door that seperated the king's tomb from the outer regions, and the door in Solomon's Temple (~850BC) seperated the "holy of holies" from the outer ring. As resources and building techniques became more plentiful, doors became more extravagant ([see the Pantheon's (29BC) 7.3m double bronze doors](#pantheondoors)), but also more common, being used residentially in the ancient Roman empire's wealthiest citizen's homes. These doors again seperated the spaces physically, but also seperated the spaces by status. Going into modern times, doors continue to show this trend of seperation between two spaces - whether it's your bedroom door, the gate into the pool area, or the revolving door leading into your office, all provide seperation between two areas.
 
 <a name="pantheondoors">![Missing Image](Images/pantheondoors.jpg)</a>
+
+From history we can see that doors are the tool used to travel between two different spaces on either side of a wall. They seperate the two spaces, but still allow for people to travel through between them. More than this, they minimise the amount of effort needed to go between two spaces; instead of destroying the wall each time and rebuilding it, the door provides a passageway.
+
+
 
 -----------
 
